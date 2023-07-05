@@ -1,0 +1,11 @@
+replicaCount: 1
+
+metadataName: test-deployment
+appName: test-service
+
+image:
+  repository: yohenba/user-service
+  tag: 113
+
+service: 
+  port: 8080
