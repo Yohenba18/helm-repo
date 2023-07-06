@@ -4,7 +4,7 @@ appName: test-service
 
 image:
   repository: yohenba/user-service
-  tag: 113
+  tag:115
 
 service: 
   port: 8080
